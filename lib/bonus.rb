@@ -23,7 +23,7 @@ def bonus
 
   #code your solution here:
 
-  epic_tragedy[:montague][:hero][:status] = "Michael Jordan"
+  epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
   
  
 
